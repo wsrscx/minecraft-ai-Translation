@@ -1,0 +1,27 @@
+已选择MC版本文件夹: C:/Users/wzryy/Desktop/.minecraft/versions/25w14craftmine
+开始汉化MC版本: 25w14craftmine
+创建临时工作目录
+从JAR文件提取资源: 25w14craftmine.jar
+查找语言文件
+找到 2 个语言文件
+翻译文件 (1/2): deprecated.json
+翻译文件 (2/2): en_us.json
+翻译批次 1/377 (20 个文本)
+正在调用翻译API...
+正在调用API: http://127.0.0.1:3003/api/v1/chat/completions
+使用模型: qwen2.5:1.5b
+发送请求到: http://127.0.0.1:3003/api/v1/chat/completions
+调用翻译API时出错: API返回错误状态码: 405 - Method Not Allowed
+响应内容: {"detail":"Method Not Allowed"}...
+批量翻译时出错: 调用翻译API时出错: API返回错误状态码: 405 - Method Not Allowed
+响应内容: {"detail":"Method Not Allowed"}...
+批量翻译时出错: 调用翻译API时出错: API返回错误状态码: 405 - Method Not Allowed
+响应内容: {"detail":"Method Not Allowed"}...
+翻译文件 C:\Users\wzryy\AppData\Local\Temp\minecraft_translator_d9cy028z\jar_extracted\assets\minecraft\lang\en_us.json 时出错: 调用翻译API时出错: 调用翻译API时出错: API返回错误状态码: 405 - Method Not Allowed
+响应内容: {"detail":"Method Not Allowed"}...
+打包汉化资源包
+汉化资源包打包完成
+清理临时文件
+汉化完成! 输出资源包: C:/Users/wzryy/Desktop/.minecraft/versions\汉化资源包_25w14craftmine_20250402_130427.zip
+requests>=2.25.0
+# tkinter通常随Python安装，不需要单独安装
